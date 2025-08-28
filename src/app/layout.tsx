@@ -3,8 +3,8 @@ import "./globals.css";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Your Name — Portfolio",
-  description: "Brand Designer with a Computer Science edge.",
+  title: "ColinVasas Portfolio",
+  description: "System and Simulation Engineer",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
