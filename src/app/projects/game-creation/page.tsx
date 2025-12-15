@@ -14,7 +14,7 @@ export default function SurvivalHorrorProject() {
         </p>
         <div className="mt-6">
           <Image
-            src="/Images/MainMenu.jpg"
+            src="/Images/MainMenu.JPG"
             alt="Grid-based horror UI implementation"
             width={1600}
             height={900}
