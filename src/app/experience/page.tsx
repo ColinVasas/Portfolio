@@ -5,13 +5,13 @@ export default function ExperiencePage() {
       <h1 className="text-3xl font-bold mb-6">Experience</h1>
       <ul className="space-y-5">
         <li className="border border-white/10 rounded-xl p-5">
-          <div className="font-semibold">Game Creation (Unity / Hobby)</div>
+          <div className="font-semibold">Survival Horror Game Design(UI)</div>
           <div className="text-sm text-neutral-400">
-            09/2022 – Current • Unity • AI / Navigation • Physics / Controls
+            09/2022 – Current • Unity • AI / Navigation • Physics / Controls • UI
           </div>
           <p className="mt-2 text-neutral-300">
             Designed and built core systems for an unannounced survival horror game,
-            focusing on AI navigation and behavior, boat traversal mechanics, and
+            focusing on AI navigation and behavior, player grid-based movement, and
             physics-driven player interactions. Balances atmosphere and mechanics to
             create tension through systemic design rather than scripted events.
           </p>
@@ -28,9 +28,9 @@ export default function ExperiencePage() {
           <p className="mt-2 text-neutral-300">At Oregon State University I worked as an AV/IT Technician, installing and maintaining classroom and conference room systems. I collaborated with multiple teams on complex hardware integrations, sat in on consultations to scope project needs, and supported departments through a ticketing system. The role strengthened my problem-solving, adaptability, and customer service skills while broadening my technical experience.</p>
         </li>
         <li className="border border-white/10 rounded-xl p-5">
-          <div className="font-semibold">Embedded System Software Simulation Engineer Intern(Jaguar Land Rover)</div>
+          <div className="font-semibold">Embedded System Software Simulation Engineer Intern(Jaguar Land Rover)(UI)</div>
           <div className="text-sm text-neutral-400">06/2024-09/2025 • Unity/Unreal • C#/C++ • Simulink/Carmaker • Physics, input, tooling</div>
-          <p className="mt-2 text-neutral-300">Developed a VR driving simulator in Unity, expanding on JLR’s existing environments. Incorporated feedback from engineers and simulator data to refine features and improve realism. Gained hands-on experience with vehicle system modeling and integration through Simulink, contributing to the advancement of their Driver-in-the-Loop simulation platform.</p>
+          <p className="mt-2 text-neutral-300">Developed a VR driving simulator in Unity, expanding on JLR’s existing environments with the goal to see vehicle UI in driving sim's. Collaboration with UX/UI designers to implement UI in unity sim's. Gained hands-on experience with vehicle system modeling and integration through Simulink, contributing to the advancement of their Driver-in-the-Loop simulation platform.</p>
           <Link
             href="/projects/JLR-sim/"
             className="text-emerald-400 hover:underline mt-2 inline-block"
@@ -43,7 +43,7 @@ export default function ExperiencePage() {
           <div className="text-sm text-neutral-400">09/2024-06/2025 • Unity/Unreal • C#/C++ • User Feedback</div>
           <p className="mt-2 text-neutral-300">Led development of physics-driven spincoating mechanics for a VR training simulator used to teach semiconductor clean room processes. Designed step-by-step tutorials and immersive environments with a strong focus on user experience and accessibility, enabling new technicians to safely practice complex workflows. Collaborated with a multidisciplinary team to balance technical accuracy with intuitive interaction design.</p>
           <Link
-            href="/projects/cleam-room-sim/"
+            href="/projects/clean-room-sim/"
             className="text-emerald-400 hover:underline mt-2 inline-block"
           >
             View Project →

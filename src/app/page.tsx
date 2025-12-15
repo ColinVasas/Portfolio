@@ -8,13 +8,13 @@ export default function Home() {
         <h1 className="font-bold tracking-tight leading-tight">
           <span className="block text-5xl md:text-7xl">Colin Vasas</span>
           <span className="block text-3xl md:text-5xl mt-2 text-emerald-400">
-            Simulation Engineer
+            Game Designer
           </span>
         </h1>
 
         {/* Short description */}
         <p className="mt-6 max-w-2xl mx-auto text-base md:text-lg text-neutral-300 leading-relaxed">
-          Computer Science graduate and Simulation Engineer with hands-on experience in Driver-in-the-Loop simulators, VR training environments, and game development. I combine technical depth with creativity to build systems that connect drivers, data, and performance.
+          Computer Science graduate and Game Designer with hands-on experience in Driver-in-the-Loop simulators(focus in UI), VR training environments, and game development. Designing and engineering complex systems with creativity, intention, and player-focused execution.
         </p>
 
         {/* Buttons */}

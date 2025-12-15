@@ -7,6 +7,7 @@ export default function CleanRoomSim() {
       <ul className="list-disc list-inside space-y-2 text-neutral-300 mb-6">
         <li>Developed real-time lighting and environmental control loops</li>
         <li>Built modular simulation architecture for scalable environments</li>
+        <li>Developed interactive UI for VR to direct users</li>
         <li>Experience applicable to HiL/SiL test system development</li>
       </ul>
       <div className="flex flex-col gap-6 mt-6">

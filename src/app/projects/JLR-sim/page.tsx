@@ -6,9 +6,9 @@ export default function JLRSim() {
       {/* Title */}
       <h1 className="text-3xl font-bold mb-4">Jaguar Land Rover — Driver-in-the-Loop Simulator</h1>
       <p className="text-neutral-300 mb-4 max-w-5xl">
-        Contributed to JLR’s high-fidelity simulator by developing Unity-based environments, 
-        integrating Simulink powertrain models, and supporting hardware-to-software testing 
-        workflows. Focused on vehicle dynamics, drivability, and controls validation in 
+        Contributed to JLR’s simulator by developing Unity-based environments, 
+        integrating driving physics in VR environment, and supporting hardware-to-software testing 
+        workflows. Focused on vehicle UI in simulated environment, and controls validation in 
         real-time systems.
       </p>
 
@@ -17,7 +17,7 @@ export default function JLRSim() {
         <li>Unity/Unreal development for immersive simulation environments</li>
         <li>Integrated Simulink & CarMaker models for powertrain and dynamics testing</li>
         <li>Hardware-to-software interfacing with steering, pedals, and CAN systems</li>
-        <li>Supported engineers in drivability, torque management, and controls validation</li>
+        <li>Supported UI/UX Design mockups integration with Unity and Unreal environments</li>
       </ul>
 
       {/* Images */}
