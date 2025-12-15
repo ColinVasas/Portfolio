@@ -30,7 +30,7 @@ export default function ExperiencePage() {
         <li className="border border-white/10 rounded-xl p-5">
           <div className="font-semibold">Embedded System Software Simulation Engineer Intern(Jaguar Land Rover)(UI)</div>
           <div className="text-sm text-neutral-400">06/2024-09/2025 • Unity/Unreal • C#/C++ • Simulink/Carmaker • Physics, input, tooling</div>
-          <p className="mt-2 text-neutral-300">Developed a VR driving simulator in Unity, expanding on JLR’s existing environments with the goal to see vehicle UI in driving sim's. Collaboration with UX/UI designers to implement UI in unity sim's. Gained hands-on experience with vehicle system modeling and integration through Simulink, contributing to the advancement of their Driver-in-the-Loop simulation platform.</p>
+          <p className="mt-2 text-neutral-300">Developed a VR driving simulator in Unity, expanding on JLR existing environments with the goal to see vehicle UI in driving sims. Collaboration with UX/UI designers to implement UI in unity sims. Gained hands-on experience with vehicle system modeling and integration through Simulink, contributing to the advancement of their Driver-in-the-Loop simulation platform.</p>
           <Link
             href="/projects/JLR-sim/"
             className="text-emerald-400 hover:underline mt-2 inline-block"
@@ -52,7 +52,7 @@ export default function ExperiencePage() {
         <li className="border border-white/10 rounded-xl p-5">
           <div className="font-semibold">Hardware Simulation Engineer Intern(Jaguar Land Rover)</div>
           <div className="text-sm text-neutral-400">06/2025-09/2025 • Unity/Unreal • C#/C++ • Simulink/Carmaker • Physics, input, tooling</div>
-          <p className="mt-2 text-neutral-300">Focused on hardware-to-software integration for JLR’s full-scale Driver-in-the-Loop simulators. Researched and documented hardware interaction with simulation systems to ensure reliability and future scalability. Supported cross-functional teams by analyzing system performance and helping bridge hardware components with Unity- and Simulink-based models.</p>
+          <p className="mt-2 text-neutral-300">Focused on hardware-to-software integration for JLRs full-scale Driver-in-the-Loop simulators. Researched and documented hardware interaction with simulation systems to ensure reliability and future scalability. Supported cross-functional teams by analyzing system performance and helping bridge hardware components with Unity- and Simulink-based models.</p>
           <Link
             href="/projects/JLR-sim/"
             className="text-emerald-400 hover:underline mt-2 inline-block"
