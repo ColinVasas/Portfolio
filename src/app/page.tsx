@@ -8,13 +8,13 @@ export default function Home() {
         <h1 className="font-bold tracking-tight leading-tight">
           <span className="block text-5xl md:text-7xl">Colin Vasas</span>
           <span className="block text-3xl md:text-5xl mt-2 text-emerald-400">
-            Game Designer
+            Embedded Software Engineer
           </span>
         </h1>
 
         {/* Short description */}
         <p className="mt-6 max-w-2xl mx-auto text-base md:text-lg text-neutral-300 leading-relaxed">
-          Computer Science graduate and Game Designer with hands-on experience in Driver-in-the-Loop simulators(focus in UI), VR training environments, and game development. Designing and engineering complex systems with creativity, intention, and player-focused execution.
+          Computer Science graduate and Embedded/Simulation Software Engineer experience in Driver-in-the-Loop Simulators, Embedded Software, and Linux Development. Designing and engineering complex systems with ingenuity, intention, and Requirement focused Execution.
         </p>
 
         {/* Buttons */}
